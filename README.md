@@ -23,10 +23,10 @@ By combining these two root words, "Tempognize" conveys the message that effecti
 ## 📱 APP Screenshot
 
 <div align="center">
-  <img src="docs/images/s1.jpg" width="200" alt="应用截图1" />
-  <img src="docs/images/s2.jpg" width="200" alt="应用截图2" />
-  <img src="docs/images/s3.jpg" width="200" alt="应用截图3" />
-  <img src="docs/images/s4.jpg" width="200" alt="应用截图4" />
+  <img src="docs/images/s1.jpg" width="200" alt="Screenshot1" />
+  <img src="docs/images/s2.jpg" width="200" alt="Screenshot2" />
+  <img src="docs/images/s3.jpg" width="200" alt="Screenshot3" />
+  <img src="docs/images/s4.jpg" width="200" alt="Screenshot4" />
 </div>
 
 ## 📥 Download
@@ -36,7 +36,6 @@ We will release the app on the App Store and Google Play Store.
 
 ## 🔗 Links
 
-- [Docs](https://atfa.github.io/Tempognize)
 - [GitHub](https://github.com/atfa/Tempognize)
 
 ## 📄 Copyright
