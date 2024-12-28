@@ -1,6 +1,5 @@
-# Tempognize
+# Tempognize · 知时
 ### Innovative Learning Assistant Application
-
 Tempognize is an innovative learning assistant application designed to foster deep learning and knowledge consolidation, accessible at tempognize.click. The name itself, "Tempognize," is a neologism crafted from two key root words, reflecting the app's core philosophy.
 
 ## 🎯 Core Features
