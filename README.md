@@ -31,7 +31,7 @@ By combining these two root words, "Tempognize" conveys the message that effecti
 
 ## 📥 Download
 
-We will release the app on the App Store and Github Release.
+We will release the app on the [App Store](https://apps.apple.com/app/id6740057962) and [Github Releases](https://github.com/atfa/Tempognize/releases).
 
 
 ## 🔗 Links
